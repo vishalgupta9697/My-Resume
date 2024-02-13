@@ -1,0 +1,23 @@
+body{
+    background-color: #FFF7F1;
+    font-size: large;
+    padding: 1% 20%;
+    border: solid;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+h1{
+    color: #12372A;
+}
+h2,h3{
+    color: #436850;
+}
+p,ul,li,dl{
+    color: #12372A;
+}
+img{
+    border-radius: 50%;
+    float: right;
+    text-align: right;
+    right: 100px;
+}
